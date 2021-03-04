@@ -29,6 +29,7 @@ Field teams share a lot of photographs during activities, often on WhatsApp. Cla
 [Vivien Deparday]() is the World Bank lead on the client side.
 
 ### Documents
+[Data model](https://docs.google.com/document/d/1S9MwRngkW6fS1O641tFad3ZoWjrtJc5sfrCD0Sv0-UY/edit)
 
 #### Pictures
 Field teams share photos during activities, often on WhatsApp. I don't think they are being captured, but they should be!
