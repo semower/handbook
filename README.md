@@ -28,7 +28,7 @@ Field teams share a lot of photographs during activities, often on WhatsApp. Cla
 
 [Emmanuel Koakun]() works as a field implementer. He is based in Liberia but speaks enough French to work with the team.
 
-[Nathalie Sidibe]()
+[Nathalie Sidibe]() is the leader of the local community MapMali.
 
 [Vivien Deparday]() is the World Bank lead on the client side.
 
