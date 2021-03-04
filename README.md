@@ -1,49 +1,41 @@
-# HOT working handbook
+# HOT Humanitarian Data Handbook
+
+## Data/Programs team
+
+This is the division of the team, under the Director of Humanitarian Data, that is generally responsible for in-person data collection activities undertaken by HOT itself, as opposed to by communities in the larger HOT and humanitarian mapping community.
+
+## Current Projects
+
+HOT has a lot of projects on the go that require people to be familiar with some context, people, resources, and documents.
 
 There a great many documents and resources we refer to for our daily work. HOT uses Google Shared Drive for a lot of document storage, but this is far from the only place where critical information may be stored. In some cases documents may be listed that actually live on local machines or hard drives, and are therefore not linked (but at least discoverable for colleagues that may want them and can then ask us for them).
-
-For the most part, these are organized first by project, then by type (financial, administrative, technical, etc).
-
-# Grand Challenges Missing Maps DRC/Uganda
-## Roles
-[Ivan Gayton]() helps manage from HQ.
-
-[Claire Halleux]() is the country manager based in DRC.
-
-[Deogratias Kigudde]() is the country manager based in Uganda.
-
-### Docs
-
-- [DRC Country Security Policy](https://docs.google.com/document/d/12bijeiHPdC2i9aV9xoCKb1tJ6oQABs3YQbXu5i8Xzsw/edit)
-- [Example trip plan](https://docs.google.com/document/d/1pwBECaCITzIj8maZNPnK4-BQJMJ6GHEQaT4BoXUKrfI/edit?usp=drivesdk) including security planning information
-
 #### Pictures
 Field teams share a lot of photographs during activities, often on WhatsApp. Claire is probably capturing them, but I'm not sure if this is systematic. [FOLDER]()
 
 # Open Cities Africa Bamako, Mali
-## Roles
+
 [David Luswata]() is the Project Manager, leading all activities of the project, and supporting in country activities remotely from Uganda.
 
-[Ivan Gayton]() supports from Japan remotely.
 
-[Koakun Emmanuel Myers]() works as a field implementer. He is based in Liberia but speaks enough French to work with the team.
+### Missing Maps DRC and Uganda, Grand Challenges Canada
 
-[Nathalie Sidibe]() is the leader of the local community MapMali.
+Details of the project [here](Missing_Maps_DRC_Uganda_GCC.md)
 
-[Vivien Deparday]() is the World Bank lead on the client side.
+### Open Cities Africa Bamako, Mali
 
-[Babadien]() (need full name) is a government employee that the World Bank considers to be a key stakeholder.
+Details of the project [here](OCA_Bamako.md)
 
-### Documents
-[Data model](https://docs.google.com/document/d/1S9MwRngkW6fS1O641tFad3ZoWjrtJc5sfrCD0Sv0-UY/edit)
+### FieldReady Uganda, Iraq, Kenya, Bangladesh
 
-#### Pictures
-Field teams share photos during activities, often on WhatsApp. I don't think they are being captured, but they should be!
+Details of the project [here](FieldReady.md)
 
-Other photos are being uploaded to the ODK server at
+# Historical Projects
+
 
 # Working Groups
 [working groups](working_groups.md)
+
+
 
 # Licence
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
