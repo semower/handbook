@@ -8,6 +8,8 @@ HOT has a lot of projects on the go that require people to be familiar with some
 
 There a great many documents and resources we refer to for our daily work. HOT uses Google Shared Drive for a lot of document storage, but this is far from the only place where critical information may be stored. In some cases documents may be listed that actually live on local machines or hard drives, and are therefore not linked (but at least discoverable for colleagues that may want them and can then ask us for them).
 
+[Projects root directory](https://drive.google.com/drive/u/1/folders/0APuUZwe9eW_hUk9PVA) on Google Shared Drive.
+
 ## Current Projects
 
 ### Open Cities Africa Bamako, Mali
