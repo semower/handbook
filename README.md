@@ -10,8 +10,23 @@ I help manage from HQ. Claire Halleux is the country manager based in DRC, and D
 
 ### Docs
 
+- [DRC Country Security Policy](https://docs.google.com/document/d/12bijeiHPdC2i9aV9xoCKb1tJ6oQABs3YQbXu5i8Xzsw/edit)
+- [Example trip plan](https://docs.google.com/document/d/1pwBECaCITzIj8maZNPnK4-BQJMJ6GHEQaT4BoXUKrfI/edit?usp=drivesdk) including security planning information
+
+#### Pictures
+Field teams share a lot of photographs during activities, often on WhatsApp. Claire is probably capturing them, but I'm not sure if this is systematic. [FOLDER]()
+
+## Open Cities Africa Bamako, Mali
+
+### Documents
+
+#### Pictures
+Field teams share photos during activities, often on WhatsApp. I don't think they are being captured, but they should be!
+
+Other photos are being uploaded to the ODK server at 
 
 
+# Licence
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
