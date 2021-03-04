@@ -1,7 +1,8 @@
 # Open Cities Africa (OCA) Bamako
 
 ## Roles
-[David Luswata]() is the HQ manager, leading all activities of the project, based in Kampala, Uganda.
+
+[David Luswata]() is the Project Manager, leading all activities of the project, and supporting in country activities remotely from Uganda.
 
 [Ivan Gayton]() supports from Japan remotely.
 
