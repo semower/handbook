@@ -1,12 +1,12 @@
-# Ivan's working handbook at HOT
+# HOT working handbook
 
-There a great many documents and resources I refer to for my daily work. HOT uses Google Shared Drive for a lot of document storage, but this is far from the only place where critical information may be stored. In some cases documents may be listed that actually live on local machines or hard drives, and are therefore not linked (but at least discoverable for colleagues that may want them and can then ask me for them).
+There a great many documents and resources we refer to for our daily work. HOT uses Google Shared Drive for a lot of document storage, but this is far from the only place where critical information may be stored. In some cases documents may be listed that actually live on local machines or hard drives, and are therefore not linked (but at least discoverable for colleagues that may want them and can then ask us for them).
 
 For the most part, these are organized first by project, then by type (financial, administrative, technical, etc). 
 
-## Grand Challenges Missing Maps DRC/Uganda
-### My Role
-I help manage from HQ. Claire Halleux is the country manager based in DRC, and Deogratias Kigudde is the country manager based in Uganda.
+# Grand Challenges Missing Maps DRC/Uganda
+## Roles
+[Ivan Gayton]() helps manage from HQ. Claire Halleux is the country manager based in DRC, and Deogratias Kigudde is the country manager based in Uganda.
 
 ### Docs
 
@@ -16,7 +16,14 @@ I help manage from HQ. Claire Halleux is the country manager based in DRC, and D
 #### Pictures
 Field teams share a lot of photographs during activities, often on WhatsApp. Claire is probably capturing them, but I'm not sure if this is systematic. [FOLDER]()
 
-## Open Cities Africa Bamako, Mali
+# Open Cities Africa Bamako, Mali
+## Roles
+[David Luswata]() is the HQ manager.
+[Ivan Gayton]() supports.
+[Emmanuel Koakun]()
+[Nathalie Sidibe]()
+
+[Vivien Deparday]() is the World Bank lead on the client side.
 
 ### Documents
 
