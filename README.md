@@ -22,7 +22,7 @@ Field teams share a lot of photographs during activities, often on WhatsApp. Cla
 
 # Open Cities Africa Bamako, Mali
 ## Roles
-[David Luswata]() is the HQ manager, leading all activities of the project, based in Kampala, Uganda.
+[David Luswata]() is the Project Manager, leading all activities of the project, and supporting in country activities remotely from Uganda.
 
 [Ivan Gayton]() supports from Japan remotely.
 
