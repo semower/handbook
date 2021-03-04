@@ -19,8 +19,11 @@ Field teams share a lot of photographs during activities, often on WhatsApp. Cla
 # Open Cities Africa Bamako, Mali
 ## Roles
 [David Luswata]() is the HQ manager.
-[Ivan Gayton]() supports.
-[Emmanuel Koakun]()
+
+[Ivan Gayton]() supports from Japan remotely.
+
+[Emmanuel Koakun]() works as a field implementer. He is based in Liberia but speaks enough French to work with the team.
+
 [Nathalie Sidibe]()
 
 [Vivien Deparday]() is the World Bank lead on the client side.
