@@ -28,6 +28,8 @@ Field teams share a lot of photographs during activities, often on WhatsApp. Cla
 
 [Vivien Deparday]() is the World Bank lead on the client side.
 
+[Babadien]() (need full name) is a government employee that the World Bank considers to be a key stakeholder.
+
 ### Documents
 
 #### Pictures
