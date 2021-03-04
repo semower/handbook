@@ -22,8 +22,11 @@ Details of the project [here](Projects/Missing_Maps_DRC_Uganda_GCC.md)
 
 Details of the project [here](Projects/FieldReady.md)
 
-# Historical Projects
+## Historical Projects
 
+
+## Proposals
+UNHCR Kakuma [Proposal here](https://drive.google.com/file/d/1KiQT5NNsjx1ixfsa5B0wmh-OFoLYgmU4/view?usp=sharing)
 
 # Working Groups
 [working groups](working_groups.md)
