@@ -6,7 +6,11 @@ For the most part, these are organized first by project, then by type (financial
 
 # Grand Challenges Missing Maps DRC/Uganda
 ## Roles
-[Ivan Gayton]() helps manage from HQ. Claire Halleux is the country manager based in DRC, and Deogratias Kigudde is the country manager based in Uganda.
+[Ivan Gayton]() helps manage from HQ.
+
+[Claire Halleux]() is the country manager based in DRC.
+
+[Deogratias Kigudde]() is the country manager based in Uganda.
 
 ### Docs
 
