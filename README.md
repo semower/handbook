@@ -29,7 +29,7 @@ Details of the project [here](Projects/FieldReady.md)
 
 ### UNHCR Kakuma and Kalobeyi Camp Mapping
 
-UNHRC and Microsoft are interested in mapping Kakuma and Kalobeyei Refugee Camps in Kenya for 2021. [Proposal here](https://drive.google.com/file/d/1KiQT5NNsjx1ixfsa5B0wmh-OFoLYgmU4/view?usp=sharing)
+UNHRC and Microsoft are interested in mapping Kakuma and Kalobeyei Refugee Camps in Kenya for 2021. [Proposal here](https://drive.google.com/file/d/1KiQT5NNsjx1ixfsa5B0wmh-OFoLYgmU4/view?usp=sharing) and [budget spreadsheet here](https://docs.google.com/spreadsheets/d/1a8lHS9kd2m8Wp6KMlaWEj_xoEbYNvx7xFzNgv-6TV-Q/edit?usp=sharing).
 
 # Working Groups
 [working groups](working_groups.md)
