@@ -42,6 +42,8 @@ Field teams share photos during activities, often on WhatsApp. I don't think the
 
 Other photos are being uploaded to the ODK server at
 
+# Working Groups
+[working groups](working_groups.md)
 
 # Licence
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
