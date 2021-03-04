@@ -24,6 +24,9 @@ Details of the project [here](Projects/Missing_Maps_DRC_Uganda_GCC.md)
 
 Details of the project [here](Projects/FieldReady.md)
 
+### OMDTZ Open Skies Fellows
+Details of the project [here](Projects/Open_Skies_Fellows.md)
+
 ## Historical Projects
 
 
