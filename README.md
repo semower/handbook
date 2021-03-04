@@ -6,7 +6,11 @@ For the most part, these are organized first by project, then by type (financial
 
 # Grand Challenges Missing Maps DRC/Uganda
 ## Roles
-[Ivan Gayton]() helps manage from HQ. Claire Halleux is the country manager based in DRC, and Deogratias Kigudde is the country manager based in Uganda.
+[Ivan Gayton]() helps manage from HQ.
+
+[Claire Halleux]() is the country manager based in DRC.
+
+[Deogratias Kigudde]() is the country manager based in Uganda.
 
 ### Docs
 
@@ -24,9 +28,11 @@ Field teams share a lot of photographs during activities, often on WhatsApp. Cla
 
 [Koakun Emmanuel Myers]() works as a field implementer. He is based in Liberia but speaks enough French to work with the team.
 
-[Nathalie Sidibe]()
+[Nathalie Sidibe]() is the leader of the local community MapMali.
 
 [Vivien Deparday]() is the World Bank lead on the client side.
+
+[Babadien]() (need full name) is a government employee that the World Bank considers to be a key stakeholder.
 
 ### Documents
 
