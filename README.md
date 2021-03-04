@@ -1,8 +1,10 @@
 # HOT working handbook
 
-There a great many documents and resources we refer to for our daily work. HOT uses Google Shared Drive for a lot of document storage, but this is far from the only place where critical information may be stored. In some cases documents may be listed that actually live on local machines or hard drives, and are therefore not linked (but at least discoverable for colleagues that may want them and can then ask us for them).
+## Projects
 
-For the most part, these are organized first by project, then by type (financial, administrative, technical, etc).
+HOT has a lot of projects on the go that require people to be familiar with some context, people, resources, and documents.
+
+There a great many documents and resources we refer to for our daily work. HOT uses Google Shared Drive for a lot of document storage, but this is far from the only place where critical information may be stored. In some cases documents may be listed that actually live on local machines or hard drives, and are therefore not linked (but at least discoverable for colleagues that may want them and can then ask us for them).
 
 # Grand Challenges Missing Maps DRC/Uganda
 ## Roles
@@ -21,26 +23,7 @@ For the most part, these are organized first by project, then by type (financial
 Field teams share a lot of photographs during activities, often on WhatsApp. Claire is probably capturing them, but I'm not sure if this is systematic. [FOLDER]()
 
 # Open Cities Africa Bamako, Mali
-## Roles
-[David Luswata]() is the HQ manager, leading all activities of the project, based in Kampala, Uganda.
-
-[Ivan Gayton]() supports from Japan remotely.
-
-[Koakun Emmanuel Myers]() works as a field implementer. He is based in Liberia but speaks enough French to work with the team.
-
-[Nathalie Sidibe]() is the leader of the local community MapMali.
-
-[Vivien Deparday]() is the World Bank lead on the client side.
-
-[Babadien]() (need full name) is a government employee that the World Bank considers to be a key stakeholder.
-
-### Documents
-[Data model](https://docs.google.com/document/d/1S9MwRngkW6fS1O641tFad3ZoWjrtJc5sfrCD0Sv0-UY/edit)
-
-#### Pictures
-Field teams share photos during activities, often on WhatsApp. I don't think they are being captured, but they should be!
-
-Other photos are being uploaded to the ODK server at
+Details of the project [here](OCA_Bamako.md)
 
 # Working Groups
 [working groups](working_groups.md)
