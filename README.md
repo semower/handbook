@@ -2,11 +2,11 @@
 
 # What is this and why?
 
-This repository is an experiment in using version control ([git](https://en.wikipedia.org/wiki/Git), and for the moment [GitHub](https://github.com)) as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team. 
+__This repository is an experiment in using version control ([git](https://en.wikipedia.org/wiki/Git), and for the moment [GitHub](https://github.com)) as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.__
 
 It is intended to be open by default. By default everything here is default open to _the entire world_ and restricted if needed (personally identifiable, sensitive, or private information).
 
-It is intended to be shared and collaboratively edited by anyone in or outside of the host organization. Why not a wiki? Mostly on the theory that the fork-and-pull-request workflow of Git strikes a good balance between openness (anyone can fork and/or submit a pull request) and manageability (no one has to accept pull requests, and they're very transparent and reversible).
+It is intended to be shared and collaboratively edited by anyone in or outside of the host organization. Why not a wiki, or Google Docs? Mostly on the theory that the fork-and-pull-request workflow of Git strikes a good balance between openness (anyone can fork and/or submit a pull request) and manageability (no one has to accept pull requests, and they're very transparent and reversible).
 
 We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges. 
 
