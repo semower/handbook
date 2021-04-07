@@ -1,7 +1,7 @@
 # HOT Humanitarian Data Handbook
 
 ## What is this?
-This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository&mdash;for the moment on [GitHub](https://github.com)&mdash;as an open-by-default tool for the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.
+This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository—for the moment on [GitHub](https://github.com)—as an open-by-default tool for the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.
 
 It's intended to provide a single starting point for information, explanations, and resources needed to understand and manage our projects. 
 
@@ -14,7 +14,7 @@ _Why not a Wiki?_ Mostly because we think that the Git style of forking, submitt
 
 _Why not folders in Google Docs?_ Mostly because it becomes tricky to know where the "official final version" of some artifact is, certainly over time and with many collaborators. Some of us find it tricky to find the Google Doc we wrote last week, let alone one written by a former colleague in 2016.
 
-However, nothing about this specifically discourages the use of Wikis or Google Docs. As long as the Handbook contains a link to the relevant Wiki or Doc, it's perfectly all right to use either.
+However, nothing about this specifically prohibits—or even discourages—the use of Wikis or Google Docs. As long as the Handbook contains a link to the relevant Wiki or Doc, it's perfectly all right to use either.
 
 We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges many of us at HOT have faced. 
 
@@ -61,7 +61,7 @@ You need some familiarity with the basics of:
 
 
 # Licence
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
