@@ -1,5 +1,12 @@
 # HOT Humanitarian Data Handbook
 
+# What is this and why?
+
+This repository is an experiment in using version control (git, and for the moment GitHub) as a default-open management tool.
+
+It is intended to he desire to be open by default. Rather than the default being a document that requires permission to view, which is opened to others if needed, a document is default open to _the entire world_ and restricted if needed.
+- 
+
 ## Data/Programs team
 
 This is the division of the team, under the Director of Humanitarian Data, that is generally responsible for in-person data collection activities undertaken by HOT itself, as opposed to by communities in the larger HOT and humanitarian mapping community.
