@@ -2,15 +2,17 @@
 
 # What is this and why?
 
-This repository is an experiment in using version control (git, and for the moment GitHub) as a default-open management tool.
+This repository is an experiment in using version control ([git](https://en.wikipedia.org/wiki/Git), and for the moment [GitHub](https://github.com)) as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team. 
 
-It is intended to he desire to be open by default. Rather than the default being a document that requires permission to view, which is opened to others if needed, a document is default open to _the entire world_ and restricted if needed.
+It is intended to be open by default. By default everything here is default open to _the entire world_ and restricted if needed (personally identifiable, sensitive, or private information).
 
-inspired by [this](https://about.gitlab.com/handbook/handbook-usage/); the company GitLab has taken a remarkable open stance with their internal workings. 
+It is intended to be shared and collaboratively edited by anyone in or outside of the host organization. Why not a wiki? Mostly on the theory that the fork-and-pull-request workflow of Git strikes a good balance between openness (anyone can fork and/or submit a pull request) and manageability (no one has to accept pull requests, and they're very transparent and reversible).
 
-## Data/Programs team
+We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges. 
 
-This is the division of the team, under the Director of Humanitarian Data, that is generally responsible for in-person data collection activities undertaken by HOT itself, as opposed to by communities in the larger HOT and humanitarian mapping community.
+## Humanitarian Data team
+
+This is the division of HOT, under the Director of Humanitarian Data, that is generally responsible for in-person data collection activities undertaken by HOT itself, as opposed to by communities in the larger HOT and humanitarian mapping community.
 
 HOT has a lot of projects on the go that require people to be familiar with some context, people, resources, and documents.
 
