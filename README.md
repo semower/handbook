@@ -14,14 +14,14 @@ _Why not a Wiki?_ Mostly because we think that the Git style of forking, submitt
 
 _Why not folders in Google Docs?_ Mostly because it becomes tricky to know where the "official final version" of some artifact is, certainly over time and with many collaborators. Some of us find it tricky to find the Google Doc we wrote last week, let alone one written by a former colleague in 2016.
 
-However, _nothing about this specifically discourages the use of Wikis or Google Docs._ As long as the Handbook contains a link to the relevant Wiki or Doc, it's perfectly all right to use either.
+However, nothing about this specifically discourages the use of Wikis or Google Docs. As long as the Handbook contains a link to the relevant Wiki or Doc, it's perfectly all right to use either.
 
 We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges many of us at HOT have faced. 
 
 ## How does it work?
 It's basically a Git repo full of [Markdown](https://en.wikipedia.org/wiki/Markdown) documents (like the one you're reading right now) that explain projects and processes, and contain links to relevant resources. For a reader, it's not much different from a wiki; the difference lies in how edits are proposed, merged, tracked, and managed.
 
-Of course, a Git repo can contain almost anything. Code, images, more sophisticated text formats like [LaTeX](), reports (as PDF of Word documents), spreadsheets, slide decks, map projects and templates, and so on (though large files like videos don't live comfortably in Git repos, it's usually preferable to keep them outside of the tracked repo and link to them). We expect that in the fullness of t
+Of course, a Git repo can contain almost anything. Code, images, more sophisticated text formats like [LaTeX](), reports (as PDF of Word documents), spreadsheets, slide decks, map projects and templates, and so on (though large files like videos don't live comfortably in Git repos, it's usually preferable to keep them outside of the tracked repo and link to them). We expect that in the fullness of time the contents of the repo will become more diverse than just Markdown and links; we think having easy access to a the final report on a project (not just the PDF output) will be really helpful!
 
 A lot of documents and information will still likely live in things like Google Drive/Docs. That's fine. The Markdown documents in the handbook serve as a guide and set of links to those resources (just as a Wiki would contain links to such assets). Over time it's probably a good thing if more documents may move into the actual Git repository itself, but it's not essential that this happen.
 
