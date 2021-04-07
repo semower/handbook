@@ -1,7 +1,6 @@
 # HOT Humanitarian Data Handbook
 
-# What is this and why?
-
+## What is this and why?
 __This repository is an experiment in using version control ([git](https://en.wikipedia.org/wiki/Git), and for the moment [GitHub](https://github.com)) as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.__
 
 It is intended to be open by default. By default everything here is default open to _the entire world_ and restricted if needed (personally identifiable, sensitive, or private information).
@@ -9,6 +8,28 @@ It is intended to be open by default. By default everything here is default open
 It is intended to be shared and collaboratively edited by anyone in or outside of the host organization. Why not a wiki, or Google Docs? Mostly on the theory that the fork-and-pull-request workflow of Git strikes a good balance between openness (anyone can fork and/or submit a pull request) and manageability (no one has to accept pull requests, and they're very transparent and reversible).
 
 We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges. 
+
+## How does it work?
+It's basically a Git repo full of [Markdown documents](https://en.wikipedia.org/wiki/Markdown) that explain projects and processes, and contain links to relevant resources.
+
+### How can I use it?
+You need some familiarity with the basics of:
+- Git: cloning, committing, forking/branching, creating pull requests, and merging.
+- Markdown: Creating text with styling, links, and embedded images.
+
+[Here are some learning resources for these tools](resources/learning_resources).
+
+### Getting started
+- Click around the links available from this very page! For a reader, it doesn't look much different from a wiki; the key difference is how edits are made and tracked.
+- Get an account on GitHub (free to sign up).
+- Clone this repository. Open it up in your file manager on your computer; you'll note that the folder structure mirrors the link structure (you can figure out where any document in the repo is by examining the URL of the link to it).
+- Pick a document you want to modify.
+- Fork the repo
+- Make your changes.
+- Submit a pull request with explanation of your changes. Once it's accepted, congratulations: you are now a co-creator of the handbook.
+  - Later you may be given commit privileges to the handbook, meaning you can be one of the people authorized to commit to the main branch of repo, and therefore accept (merge) pull requests (note that it's often considered a best practice to make a pull request and get someone else to merge it to main, even if you are technically able to directly commit changes to main unilaterally).
+
+
 
 ## Humanitarian Data team
 
