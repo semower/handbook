@@ -1,7 +1,7 @@
 # HOT Humanitarian Data Handbook
 
 ## What is this and why?
-__This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository&mdash;for the moment on [GitHub](https://github.com))&mdash;as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.__
+This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository&mdash;for the moment on [GitHub](https://github.com)&mdash;as an open-by-default tool for the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.
 
 It's intended to provide a single starting point for information, explanations, and resources needed to understand and manage our projects. 
 
