@@ -21,15 +21,27 @@ You need some familiarity with the basics of:
 
 [Here are some learning resources for these tools](Resources/learning_resources.md).
 
-### Getting started
+#### Getting started by editing a page
 - Click around the links available from this very page! Again, it looks and works like a Wiki; it's the editing that is different.
 - Get an account on GitHub (free to sign up).
 - Clone this repository. Open it up in your file manager on your computer; you'll note that the folder structure mirrors the link structure (you can figure out where any document in the repo is by examining the URL of the link to it).
 - Pick a document you want to modify.
-- Fork the repo
-- Make your changes.
+- Fork the repo.
+- Make your changes to the page (Markdown document) you want to improve.
 - Submit a pull request with explanation of your changes. Once it's accepted, congratulations: you are now a co-creator of the handbook.
   - Later you may be given commit privileges to the handbook, meaning you can be one of the people authorized to commit to the main branch of repo, and therefore accept (merge) pull requests (note that it's often considered a best practice to make a pull request and get someone else to merge it to main, even if you are technically able to directly commit changes to main unilaterally).
+
+#### Getting started by creating a project
+- Clone this repository. Open it up in your file manager on your computer; you'll note that the folder structure mirrors the link structure (you can figure out where any document in the repo is by examining the URL of the link to it).
+- Fork the repo.
+- Create a new textfile with a name like my_project.md (.md is the Markdown file extension).
+- Glance at the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to remind yourself how to create nicely formatted text with headers, links, etc. Write an explanation of your project.
+- Add a short high-level explanation of the project's main focus and goal(s). If a detailed publicly-accessible document already exists elsewhere, add a link to it.
+- Try to add links to everything someone trying to manage the project would need. For example, the original project proposal and budget.
+  - These may be private documents (the budget probably is). No problem; as long as the permissions _on the documents themselves_ are correctly set, the link won't help anyone who doesn't already have permission.
+  - Try to add a section mentioning key people and their roles. For example, who is the donor/client point of contact? Who is the field team leader? Who is the HQ lead?
+    - If this information should not be public, the easiest thing may be simply to put it in a Google Doc shared only with those authorized to see or edit it, and put a link to that doc in the Markdown. This way everyone will know where the document is (helpful for those who should have access to it but may not remember where it's saved; now they have a link labelled something like ```List of key stakeholders```) but only the authorized can actually read or edit it.
+- 
 
 
 
