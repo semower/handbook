@@ -19,7 +19,7 @@ You need some familiarity with the basics of:
 - Git: cloning, committing, forking/branching, creating pull requests, and merging.
 - Markdown: Creating text with styling, links, and embedded images.
 
-[Here are some learning resources for these tools](Resources/learning_resources).
+[Here are some learning resources for these tools](Resources/learning_resources.md).
 
 ### Getting started
 - Click around the links available from this very page! Again, it looks and works like a Wiki; it's the editing that is different.
