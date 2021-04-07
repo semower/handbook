@@ -1,7 +1,9 @@
 # HOT Humanitarian Data Handbook
 
 ## What is this and why?
-__This repository is an experiment in using version control ([git](https://en.wikipedia.org/wiki/Git), and for the moment [GitHub](https://github.com)) as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.__
+__This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository&mdash;for the moment on [GitHub](https://github.com))&mdash;as a default-open management tool within the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.__
+
+It's intended to provide a single starting point for information, explanations, and resources needed to understand and manage our projects. 
 
 __"Open by default"__ means everything here is open to _the entire world_ unless there is a specific reason to restrict access (normally personally identifiable, sensitive, or private information).
 
@@ -10,7 +12,7 @@ It is intended to be shared and collaboratively edited by anyone in or outside o
 We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges. 
 
 ## How does it work?
-It's basically a Git repo full of [Markdown documents](https://en.wikipedia.org/wiki/Markdown) that explain projects and processes, and contain links to relevant resources. For a reader, it's not much different from a wiki; the difference lies in how edits are proposed, merged, tracked, and managed.
+It's basically a Git repo full of [Markdown documents](https://en.wikipedia.org/wiki/Markdown) that explain projects and processes, and contain links to relevant resources. For a reader, it's not much different from a wiki; the difference lies in how edits are proposed, merged, tracked, and managed. [Here](https://about.gitlab.com/handbook/handbook-usage/#wiki-handbooks-dont-scale) is a discussion of the advantages of a Git repo over a Wiki.
 
 ### How can I use it?
 You need some familiarity with the basics of:
